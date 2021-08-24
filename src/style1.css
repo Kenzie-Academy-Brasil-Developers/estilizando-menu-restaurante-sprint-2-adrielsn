@@ -7,6 +7,8 @@ body {
     font-size: 18px;
     font-family: Lato, sans-serif;
     background-image: url("/home/adrielsn/Kenzie Academy Brasil/GitHub/estilizando-menu-restaurante-sprint-2-adrielsn/src/img/map-bg.jpg");
+    background-image: url("estilizando-menu-restaurante-sprint-2-adrielsn/src/img/map-bg.jpg");
+
 }
 
 #main {
